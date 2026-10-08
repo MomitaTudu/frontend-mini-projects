@@ -13,3 +13,4 @@
       A simple web-based to-do list application created using HTML, CSS, and JavaScript.
 
 ## weather_app
+      A responsive weather app interface built with HTML, CSS, and Bootstrap, featuring a city search form.
